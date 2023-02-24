@@ -6,4 +6,4 @@ Permite iniciar el contador y pausarlo, adicional marcar cada vuelta y reiniciar
 Adaptado a responsive mobile, tablet y laptop
 
 
-Para ver mi proyecto: https://luzvelia.github.io/Cronometro/
+
